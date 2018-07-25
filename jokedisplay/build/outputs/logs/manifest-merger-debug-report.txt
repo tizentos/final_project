@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:5:5-7:19
+activity#ltd.boku.jokedisplay.JokeDisplayActivity
+ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:6:9-66
+	android:name
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml:6:19-54
+uses-sdk
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Boku\Documents\Boku\Projects\ud867-master\FinalProject\jokedisplay\src\main\AndroidManifest.xml
